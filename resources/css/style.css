@@ -1,0 +1,15 @@
+html {
+font-family: Tahoma, sans-serif;
+color: DodgerBlue;
+font-weight: bold;
+background-color: lightgrey;
+}
+
+h1,
+h2 {
+  color: Black;
+}
+
+h3 {
+  color: Black;
+}
